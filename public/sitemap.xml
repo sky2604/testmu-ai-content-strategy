@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>/audit</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/serp</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/competitors</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/keywords</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/content</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/geo</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/conversion</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/redesign</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>/roadmap</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/measurement</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/conclusion</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>
