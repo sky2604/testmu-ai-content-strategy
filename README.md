@@ -4,7 +4,10 @@ Interactive strategy experience for the TestMu AI Senior Content Strategist assi
 
 Prepared by Akash Sinha (Sky), September 2026. Target page: [testmuai.com/visual-testing-tool/](https://www.testmuai.com/visual-testing-tool/).
 
-Repository: [github.com/sky2604/testmu-ai-content-strategy](https://github.com/sky2604/testmu-ai-content-strategy)
+- GitHub: [github.com/sky2604/testmu-ai-content-strategy](https://github.com/sky2604/testmu-ai-content-strategy)
+- Vercel: [testmu-ai-content-strategy-akash26-s-projects.vercel.app](https://testmu-ai-content-strategy-akash26-s-projects.vercel.app)
+
+The Vercel project currently has Vercel Authentication on (team default). Open it while signed into Vercel, or turn off Deployment Protection in the project settings to make it public.
 
 ## What this is
 
